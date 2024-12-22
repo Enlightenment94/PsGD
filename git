@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github-enlightenment:Enlightenment94/PsGD.git
+git push -u -f origin main
+

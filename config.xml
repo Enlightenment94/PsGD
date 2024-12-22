@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>psgd</name>
+	<displayName><![CDATA[PsGD]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Sync images with google Api by reference 1 to 1.]]></description>
+	<author><![CDATA[PsBackend]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
